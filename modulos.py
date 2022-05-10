@@ -5,7 +5,7 @@ help(randint)
 print(randint(10, 20)) """
 
 from math import *
-print(dir(math))
+
 #from  math import *
 #print(dir(math))
 
