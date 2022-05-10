@@ -4,13 +4,16 @@
 help(randint)
 print(randint(10, 20)) """
 
-#from  math import sqrt
-from  math import *
-
+from math import *
+print(dir(math))
+#from  math import *
+#print(dir(math))
 
 # use math module functions
-#help(sqrt)
-print(sqrt(5))
-# Output 2.23606797749979
+help(sqrt)
+help(factorial)
+print(factorial(5))
+print(sqrt(23))
+
 
 
