@@ -6,6 +6,7 @@ print(randint(10, 20)) """
 
 from math import *
 
+
 #from  math import *
 #print(dir(math))
 
